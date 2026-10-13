@@ -1,0 +1,6 @@
+body{font:17px/1.6 Georgia,serif;max-width:42rem;margin:3rem auto;padding:0 1rem;color:#1a1a1a;background:#fff}
+h1,h2{font-family:system-ui,sans-serif;line-height:1.25}
+h2{margin-top:2rem;font-size:1.15rem}
+a{color:#0b57d0}
+.note{color:#555;font-size:.95rem}
+@media (prefers-color-scheme:dark){body{background:#121212;color:#e6e6e6}a{color:#8ab4f8}.note{color:#aaa}}
